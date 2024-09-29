@@ -22,7 +22,12 @@ body {
   syntax: "<boolean>";
 
 } */
-
+/* .instructions{
+  
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+} */
 .Temperature{
   text-align: center;
   margin-top: 0;
